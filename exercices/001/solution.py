@@ -5,4 +5,4 @@
 Ceci est un script temporaire.
 """
 
-print ("zyxwvutsrqponmlkjihgfedcba")
+print ("abcdefghijklnmopqrstuvwxyz")
