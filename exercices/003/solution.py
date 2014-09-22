@@ -4,5 +4,3 @@
 
 Ceci est un script temporaire.
 """
-
-print ("zyxwvutsrqponmlkjihgfedcba")
