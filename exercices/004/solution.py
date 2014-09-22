@@ -7,4 +7,3 @@ Ceci est un script temporaire.
 import sys
 
 print(sys.argv[0])
-
